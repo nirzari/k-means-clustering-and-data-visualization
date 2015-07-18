@@ -1,0 +1,43 @@
+GEO_ID	AREA_NAME	TABLE_ID	LINE_NUMBER	LINE_DESCRIPTION	ESTIMATE	MARGIN_OF_ERROR
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	1	Total households	264513	4,936
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	2	Family households (families)	183106	4,987
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	3	With own children under 18 years	74867	3,663
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	4	Married-couple family	125791	5,584
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	5	With own children under 18 years	44913	3,588
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	13380	2,065
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	7	With own children under 18 years	5501	1,578
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	43935	3,104
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	9	With own children under 18 years	24453	2,333
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	10	Nonfamily households	81407	4,298
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	11	Householder living alone	72352	4,411
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	12	65 years and over	23520	2,042
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	86747	3,756
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	71045	1,759
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	15	Average household size	2.55	0.04
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	16	Average family size	3.12	0.07
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	17	Population in households	675361	4,646
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	18	Householder	264513	4,936
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	19	Spouse	125723	5,532
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	20	Child	206615	6,471
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	21	Other relatives	54980	5,960
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	22	Nonrelatives	23530	3,432
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	23	Unmarried partner	10359	1,749
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	24	Males 15 years and over	262696	2,429
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	25	Never married	84363	4,684
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	26	Now married, except separated	134654	5,142
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	27	Separated	6152	1,353
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	28	Widowed	6295	1,178
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	29	Divorced	31232	3,047
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	30	Females 15 years and over	287687	2,156
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	31	Never married	73848	3,416
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	32	Now married, except separated	133877	6,266
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	33	Separated	7441	1,388
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	34	Widowed	31008	2,636
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	35	Divorced	41513	3,448
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	12799	1,965
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	6139	1,285
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	68	14
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	79	12
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	21	11
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	130	23
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	47	14

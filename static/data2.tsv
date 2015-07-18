@@ -1,0 +1,706 @@
+GEO_ID	AREA_NAME	TABLE_ID	LINE_NUMBER	LINE_DESCRIPTION	ESTIMATE	MARGIN_OF_ERROR
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	1	Total households	264513	4,936
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	2	Family households (families)	183106	4,987
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	3	With own children under 18 years	74867	3,663
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	4	Married-couple family	125791	5,584
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	5	With own children under 18 years	44913	3,588
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	13380	2,065
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	7	With own children under 18 years	5501	1,578
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	43935	3,104
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	9	With own children under 18 years	24453	2,333
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	10	Nonfamily households	81407	4,298
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	11	Householder living alone	72352	4,411
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	12	65 years and over	23520	2,042
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	86747	3,756
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	71045	1,759
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	15	Average household size	2.55	0.04
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	16	Average family size	3.12	0.07
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	17	Population in households	675361	4,646
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	18	Householder	264513	4,936
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	19	Spouse	125723	5,532
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	20	Child	206615	6,471
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	21	Other relatives	54980	5,960
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	22	Nonrelatives	23530	3,432
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	23	Unmarried partner	10359	1,749
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	24	Males 15 years and over	262696	2,429
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	25	Never married	84363	4,684
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	26	Now married, except separated	134654	5,142
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	27	Separated	6152	1,353
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	28	Widowed	6295	1,178
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	29	Divorced	31232	3,047
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	30	Females 15 years and over	287687	2,156
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	31	Never married	73848	3,416
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	32	Now married, except separated	133877	6,266
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	33	Separated	7441	1,388
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	34	Widowed	31008	2,636
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	35	Divorced	41513	3,448
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	12799	1,965
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	6139	1,285
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	68	14
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	79	12
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	21	11
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	130	23
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	47	14
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	43	Number of grandparents living with own grandchildren under 18 years	18238	2,545
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	44	Responsible for grandchildren	10045	1,922
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	45	Less than 1 year	1736	827
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	46	1 or 2 years	2112	877
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	47	3 or 4 years	1942	909
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	48	5 or more years	4255	1,142
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	49	Number of grandparents responsible for own grandchildren under 18 years	10045	1,922
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	50	Who are female	6457	1,282
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	51	Who are married	6814	1,507
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	52	Population 3 years and over enrolled in school	175816	4,327
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	53	Nursery school, preschool	10496	1,675
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	54	Kindergarten	11808	1,858
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	55	Elementary school (grades 1-8)	76789	2,865
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	56	High school (grades 9-12)	36900	2,097
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	57	College or graduate school	39823	3,484
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	58	Population 25 years and over	459927	3,037
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	59	Less than 9th grade	21406	2,985
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	60	9th to 12th grade, no diploma	47369	4,273
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	61	High school graduate (includes equivalency)	152795	5,865
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	62	Some college, no degree	104173	5,051
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	63	Associate's degree	35168	3,632
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	64	Bachelor's degree	64131	4,462
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	65	Graduate or professional degree	34885	3,216
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	66	Percent high school graduate or higher	85	1.2
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	67	Percent bachelor's degree or higher	21.5	1.0
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	68	Civilian population 18 years and over	521000	2,774
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	69	Civilian veterans	59792	3,783
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	70	Total Civilian Noninstitutionalized Population	678014	4,729
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	71	With a disability	102334	5,365
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	72	Under 18 years	166477	1,746
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	73	With a disability	6989	1,822
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	74	18 to 64 years	413617	4,247
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	75	With a disability	56865	4,266
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	76	65 years and over	97920	1,278
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	77	With a disability	38480	2,211
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	78	Population 1 year and over	680426	3,824
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	79	Same house	580369	8,826
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	80	Different house in the U.S.	97319	8,421
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	81	Same county	71362	8,064
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	82	Different county	25957	4,261
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	83	Same state	9929	2,270
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	84	Different state	16028	3,994
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	85	Abroad	2738	1,368
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	86	Total population	689110	3,276
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	87	Native	667618	3,904
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	88	Born in United States	663985	4,253
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	89	State of residence	476619	10,000
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	90	Different state	187366	10,015
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	91	Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)	3633	1,327
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	92	Foreign born	21492	2,897
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	93	Foreign-born population	21492	2,897
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	94	Naturalized U.S. citizen	10414	2,357
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	95	Not a U.S. citizen	11078	2,377
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	96	Population born outside the United States	25125	3,085
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	97	Native	3633	1,327
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	98	Entered 2000 or later	458	342
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	99	Entered before 2000	3175	1,180
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	100	Foreign born	21492	2,897
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	101	Entered 2000 or later	10537	2,100
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	102	Entered before 2000	10955	1,869
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	103	Foreign-born population, excluding population born at sea	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	104	Europe	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	105	Asia	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	106	Africa	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	107	Oceania	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	108	Latin America	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	109	Northern America	N	N
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	110	Population 5 years and over	645133	3,522
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	111	English only	615249	4,063
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	112	Language other than English	29884	3,280
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	113	"Speak English less than ""very well"""	12345	2,876
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	114	Spanish	15388	2,549
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	115	"Speak English less than ""very well"""	7165	2,313
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	116	Other Indo-European languages	6613	1,802
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	117	"Speak English less than ""very well"""	1590	1,120
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	118	Asian and Pacific Islander languages	6448	1,260
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	119	"Speak English less than ""very well"""	2687	1,044
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	120	Other languages	1435	913
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	121	"Speak English less than ""very well"""	903	780
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	122	Total population	689110	3,276
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	123	American	88010	7,060
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	124	Arab	1674	939
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	125	Czech	325	284
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	126	Danish	926	858
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	127	Dutch	7976	2,501
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	128	English	62101	6,223
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	129	French (except Basque)	21688	3,785
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	130	French Canadian	3211	1,696
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	131	German	68439	7,215
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	132	Greek	1260	821
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	133	Hungarian	1305	851
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	134	Irish	74836	7,474
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	135	Italian	17431	3,316
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	136	Lithuanian	546	438
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	137	Norwegian	4665	2,161
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	138	Polish	2996	1,327
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	139	Portuguese	1053	674
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	140	Russian	1173	642
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	141	Scotch-Irish	10209	2,200
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	142	Scottish	14726	3,666
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	143	Slovak	402	361
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	144	Subsaharan African	3247	950
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	145	Swedish	3635	1,396
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	146	Swiss	1256	769
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	147	Ukrainian	281	240
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	148	Welsh	2466	1,040
+50000US0101	Congressional District 1 (113th Congress), Alabama	DP02	149	West Indian (excluding Hispanic origin groups)	658	527
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	1	Total households	257657	3,370
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	2	Family households (families)	173602	3,276
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	3	With own children under 18 years	72310	2,778
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	4	Married-couple family	121584	3,398
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	5	With own children under 18 years	43286	2,494
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	10111	1,510
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	7	With own children under 18 years	4906	1,118
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	41907	2,543
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	9	With own children under 18 years	24118	2,007
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	10	Nonfamily households	84055	3,427
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	11	Householder living alone	73264	3,520
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	12	65 years and over	27253	1,600
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	83500	2,968
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	68813	1,714
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	15	Average household size	2.56	0.04
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	16	Average family size	3.15	0.06
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	17	Population in households	659065	7,427
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	18	Householder	257657	3,370
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	19	Spouse	121630	3,589
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	20	Child	199722	7,087
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	21	Other relatives	51593	4,290
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	22	Nonrelatives	28463	3,006
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	23	Unmarried partner	9893	1,516
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	24	Males 15 years and over	260599	3,377
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	25	Never married	85030	3,122
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	26	Now married, except separated	132493	3,414
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	27	Separated	6112	1,203
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	28	Widowed	7738	1,196
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	29	Divorced	29226	2,016
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	30	Females 15 years and over	285477	3,567
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	31	Never married	73394	3,823
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	32	Now married, except separated	128040	4,129
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	33	Separated	10979	1,478
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	34	Widowed	31866	1,898
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	35	Divorced	41198	2,445
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	12438	1,796
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	6912	1,402
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	77	15
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	76	11
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	48	23
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	133	23
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	31	8
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	43	Number of grandparents living with own grandchildren under 18 years	17961	2,271
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	44	Responsible for grandchildren	9926	1,637
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	45	Less than 1 year	2593	903
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	46	1 or 2 years	2063	712
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	47	3 or 4 years	1389	484
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	48	5 or more years	3881	1,037
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	49	Number of grandparents responsible for own grandchildren under 18 years	9926	1,637
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	50	Who are female	6751	1,184
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	51	Who are married	7143	1,442
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	52	Population 3 years and over enrolled in school	171120	4,748
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	53	Nursery school, preschool	8109	1,379
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	54	Kindergarten	10788	1,661
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	55	Elementary school (grades 1-8)	73299	3,185
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	56	High school (grades 9-12)	39044	2,412
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	57	College or graduate school	39880	3,025
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	58	Population 25 years and over	452332	5,103
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	59	Less than 9th grade	26299	2,403
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	60	9th to 12th grade, no diploma	53112	3,457
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	61	High school graduate (includes equivalency)	144594	4,613
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	62	Some college, no degree	98620	4,547
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	63	Associate's degree	36244	2,776
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	64	Bachelor's degree	60819	3,357
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	65	Graduate or professional degree	32644	3,095
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	66	Percent high school graduate or higher	82.4	0.9
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	67	Percent bachelor's degree or higher	20.7	0.9
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	68	Civilian population 18 years and over	511593	5,602
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	69	Civilian veterans	70401	3,403
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	70	Total Civilian Noninstitutionalized Population	658101	7,445
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	71	With a disability	117193	4,842
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	72	Under 18 years	160893	3,551
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	73	With a disability	11582	2,168
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	74	18 to 64 years	402005	5,797
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	75	With a disability	64399	3,821
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	76	65 years and over	95203	1,753
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	77	With a disability	41212	1,902
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	78	Population 1 year and over	670635	6,927
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	79	Same house	558724	9,802
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	80	Different house in the U.S.	109178	8,519
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	81	Same county	56621	5,833
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	82	Different county	52557	5,635
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	83	Same state	27724	3,644
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	84	Different state	24833	4,075
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	85	Abroad	2733	1,123
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	86	Total population	678860	7,137
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	87	Native	661082	7,551
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	88	Born in United States	653572	7,746
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	89	State of residence	469398	8,332
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	90	Different state	184174	6,860
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	91	Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)	7510	1,558
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	92	Foreign born	17778	2,616
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	93	Foreign-born population	17778	2,616
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	94	Naturalized U.S. citizen	6157	1,164
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	95	Not a U.S. citizen	11621	2,309
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	96	Population born outside the United States	25288	2,937
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	97	Native	7510	1,558
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	98	Entered 2000 or later	1467	533
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	99	Entered before 2000	6043	1,518
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	100	Foreign born	17778	2,616
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	101	Entered 2000 or later	8817	2,013
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	102	Entered before 2000	8961	1,500
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	103	Foreign-born population, excluding population born at sea	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	104	Europe	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	105	Asia	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	106	Africa	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	107	Oceania	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	108	Latin America	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	109	Northern America	N	N
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	110	Population 5 years and over	636398	6,563
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	111	English only	606943	7,159
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	112	Language other than English	29455	3,665
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	113	"Speak English less than ""very well"""	12526	2,242
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	114	Spanish	19204	2,349
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	115	"Speak English less than ""very well"""	8016	1,688
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	116	Other Indo-European languages	3780	1,126
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	117	"Speak English less than ""very well"""	1325	618
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	118	Asian and Pacific Islander languages	6203	1,993
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	119	"Speak English less than ""very well"""	3118	1,194
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	120	Other languages	268	214
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	121	"Speak English less than ""very well"""	67	83
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	122	Total population	678860	7,137
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	123	American	121867	7,209
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	124	Arab	383	261
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	125	Czech	563	600
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	126	Danish	302	224
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	127	Dutch	5029	1,188
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	128	English	54293	4,427
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	129	French (except Basque)	9269	1,736
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	130	French Canadian	947	384
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	131	German	44000	4,428
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	132	Greek	727	492
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	133	Hungarian	494	343
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	134	Irish	55920	4,396
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	135	Italian	8296	1,963
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	136	Lithuanian	159	221
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	137	Norwegian	2783	1,127
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	138	Polish	2851	775
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	139	Portuguese	214	159
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	140	Russian	781	347
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	141	Scotch-Irish	11461	2,718
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	142	Scottish	10125	1,685
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	143	Slovak	40	54
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	144	Subsaharan African	11099	1,734
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	145	Swedish	1659	543
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	146	Swiss	407	306
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	147	Ukrainian	250	323
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	148	Welsh	2016	644
+50000US0102	Congressional District 2 (113th Congress), Alabama	DP02	149	West Indian (excluding Hispanic origin groups)	595	329
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	1	Total households	266530	4,493
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	2	Family households (families)	177471	5,220
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	3	With own children under 18 years	74383	3,782
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	4	Married-couple family	127718	4,942
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	5	With own children under 18 years	48665	3,018
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	9562	1,549
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	7	With own children under 18 years	4088	1,173
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	40191	3,191
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	9	With own children under 18 years	21630	2,376
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	10	Nonfamily households	89059	4,826
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	11	Householder living alone	75673	4,133
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	12	65 years and over	26224	2,256
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	86657	4,060
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	66975	1,880
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	15	Average household size	2.49	0.04
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	16	Average family size	3.06	0.07
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	17	Population in households	664205	6,180
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	18	Householder	266530	4,493
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	19	Spouse	126935	4,841
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	20	Child	189063	6,613
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	21	Other relatives	49905	4,348
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	22	Nonrelatives	31772	3,862
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	23	Unmarried partner	10215	2,012
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	24	Males 15 years and over	267559	3,681
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	25	Never married	88270	4,066
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	26	Now married, except separated	136775	5,371
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	27	Separated	6326	1,486
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	28	Widowed	8166	1,403
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	29	Divorced	28022	3,476
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	30	Females 15 years and over	287314	2,346
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	31	Never married	77411	3,559
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	32	Now married, except separated	133650	5,226
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	33	Separated	10434	1,769
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	34	Widowed	29172	2,601
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	35	Divorced	36647	3,743
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	8598	1,790
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	3640	1,203
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	40	13
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	50	11
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	55	30
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	90	19
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	11	8
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	43	Number of grandparents living with own grandchildren under 18 years	18579	2,373
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	44	Responsible for grandchildren	10884	1,955
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	45	Less than 1 year	2187	1,032
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	46	1 or 2 years	1925	698
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	47	3 or 4 years	1516	710
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	48	5 or more years	5256	1,541
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	49	Number of grandparents responsible for own grandchildren under 18 years	10884	1,955
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	50	Who are female	6644	1,165
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	51	Who are married	7872	1,835
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	52	Population 3 years and over enrolled in school	184955	5,528
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	53	Nursery school, preschool	10405	1,910
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	54	Kindergarten	8864	1,851
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	55	Elementary school (grades 1-8)	69806	3,014
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	56	High school (grades 9-12)	34546	2,168
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	57	College or graduate school	61334	3,404
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	58	Population 25 years and over	444628	4,353
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	59	Less than 9th grade	28358	2,286
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	60	9th to 12th grade, no diploma	59993	4,647
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	61	High school graduate (includes equivalency)	138493	4,839
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	62	Some college, no degree	95937	4,939
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	63	Associate's degree	33342	3,403
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	64	Bachelor's degree	54245	4,295
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	65	Graduate or professional degree	34260	3,355
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	66	Percent high school graduate or higher	80.1	1.1
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	67	Percent bachelor's degree or higher	19.9	1.2
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	68	Civilian population 18 years and over	523339	5,004
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	69	Civilian veterans	57606	3,283
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	70	Total Civilian Noninstitutionalized Population	667974	6,287
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	71	With a disability	115950	4,924
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	72	Under 18 years	154591	3,464
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	73	With a disability	8056	1,694
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	74	18 to 64 years	423816	4,219
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	75	With a disability	67572	4,073
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	76	65 years and over	89567	1,455
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	77	With a disability	40322	2,638
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	78	Population 1 year and over	675008	7,157
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	79	Same house	562293	9,350
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	80	Different house in the U.S.	109764	8,086
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	81	Same county	59696	6,985
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	82	Different county	50068	5,726
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	83	Same state	25540	3,372
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	84	Different state	24528	4,305
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	85	Abroad	2951	1,106
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	86	Total population	683095	6,726
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	87	Native	664722	6,867
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	88	Born in United States	657053	7,128
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	89	State of residence	450488	8,360
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	90	Different state	206565	7,837
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	91	Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)	7669	1,800
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	92	Foreign born	18373	2,402
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	93	Foreign-born population	18373	2,402
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	94	Naturalized U.S. citizen	6405	1,568
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	95	Not a U.S. citizen	11968	1,849
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	96	Population born outside the United States	26042	3,004
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	97	Native	7669	1,800
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	98	Entered 2000 or later	1788	835
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	99	Entered before 2000	5881	1,460
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	100	Foreign born	18373	2,402
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	101	Entered 2000 or later	11160	1,793
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	102	Entered before 2000	7213	1,583
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	103	Foreign-born population, excluding population born at sea	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	104	Europe	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	105	Asia	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	106	Africa	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	107	Oceania	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	108	Latin America	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	109	Northern America	N	N
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	110	Population 5 years and over	641683	6,108
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	111	English only	614433	6,021
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	112	Language other than English	27250	2,429
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	113	"Speak English less than ""very well"""	12751	2,292
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	114	Spanish	15417	1,793
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	115	"Speak English less than ""very well"""	7295	1,637
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	116	Other Indo-European languages	4142	1,218
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	117	"Speak English less than ""very well"""	868	520
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	118	Asian and Pacific Islander languages	6715	1,497
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	119	"Speak English less than ""very well"""	4246	1,491
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	120	Other languages	976	538
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	121	"Speak English less than ""very well"""	342	296
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	122	Total population	683095	6,726
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	123	American	125110	9,160
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	124	Arab	238	230
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	125	Czech	304	303
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	126	Danish	598	580
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	127	Dutch	8986	2,947
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	128	English	55535	5,578
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	129	French (except Basque)	7490	2,263
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	130	French Canadian	586	353
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	131	German	43835	5,854
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	132	Greek	477	333
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	133	Hungarian	602	403
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	134	Irish	67074	5,957
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	135	Italian	12499	3,015
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	136	Lithuanian	402	543
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	137	Norwegian	1976	960
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	138	Polish	4827	1,871
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	139	Portuguese	621	563
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	140	Russian	1483	840
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	141	Scotch-Irish	8841	1,927
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	142	Scottish	12213	2,765
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	143	Slovak	191	216
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	144	Subsaharan African	3922	1,736
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	145	Swedish	1538	779
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	146	Swiss	320	282
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	147	Ukrainian	138	141
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	148	Welsh	1313	801
+50000US0103	Congressional District 3 (113th Congress), Alabama	DP02	149	West Indian (excluding Hispanic origin groups)	822	473
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	1	Total households	265226	4,142
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	2	Family households (families)	189608	4,725
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	3	With own children under 18 years	77169	3,513
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	4	Married-couple family	141762	4,323
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	5	With own children under 18 years	50783	2,811
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	12845	1,878
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	7	With own children under 18 years	7043	1,433
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	35001	2,627
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	9	With own children under 18 years	19343	2,181
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	10	Nonfamily households	75618	3,671
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	11	Householder living alone	68336	3,500
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	12	65 years and over	28846	1,875
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	87404	3,619
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	76554	1,737
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	15	Average household size	2.54	0.04
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	16	Average family size	3.06	0.06
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	17	Population in households	673668	5,619
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	18	Householder	265226	4,142
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	19	Spouse	142668	4,313
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	20	Child	206090	5,668
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	21	Other relatives	41458	3,817
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	22	Nonrelatives	18226	2,448
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	23	Unmarried partner	8012	1,259
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	24	Males 15 years and over	269051	2,672
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	25	Never married	70786	3,185
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	26	Now married, except separated	150562	4,259
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	27	Separated	4868	1,100
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	28	Widowed	8100	1,287
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	29	Divorced	34735	3,016
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	30	Females 15 years and over	284957	3,026
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	31	Never married	57081	3,768
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	32	Now married, except separated	149696	5,085
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	33	Separated	8558	1,280
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	34	Widowed	34197	2,116
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	35	Divorced	35425	3,219
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	8081	1,426
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	1815	576
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	24	8
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	51	9
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	17	12
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	105	20
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	18	8
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	43	Number of grandparents living with own grandchildren under 18 years	16149	1,889
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	44	Responsible for grandchildren	8895	1,354
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	45	Less than 1 year	1257	480
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	46	1 or 2 years	2475	1,147
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	47	3 or 4 years	1266	571
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	48	5 or more years	3897	969
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	49	Number of grandparents responsible for own grandchildren under 18 years	8895	1,354
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	50	Who are female	5220	812
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	51	Who are married	6847	1,336
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	52	Population 3 years and over enrolled in school	160945	3,858
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	53	Nursery school, preschool	5707	1,181
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	54	Kindergarten	7846	1,525
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	55	Elementary school (grades 1-8)	76456	2,912
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	56	High school (grades 9-12)	36267	2,196
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	57	College or graduate school	34669	2,831
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	58	Population 25 years and over	465731	4,157
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	59	Less than 9th grade	36877	2,944
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	60	9th to 12th grade, no diploma	64573	4,491
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	61	High school graduate (includes equivalency)	156407	5,365
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	62	Some college, no degree	105200	4,967
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	63	Associate's degree	33111	2,583
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	64	Bachelor's degree	42153	2,591
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	65	Graduate or professional degree	27410	2,461
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	66	Percent high school graduate or higher	78.2	1.2
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	67	Percent bachelor's degree or higher	14.9	0.7
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	68	Civilian population 18 years and over	525033	3,750
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	69	Civilian veterans	52752	3,228
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	70	Total Civilian Noninstitutionalized Population	674892	5,407
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	71	With a disability	132004	5,734
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	72	Under 18 years	155951	3,080
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	73	With a disability	8194	1,544
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	74	18 to 64 years	413436	3,965
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	75	With a disability	74944	4,600
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	76	65 years and over	105505	1,495
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	77	With a disability	48866	2,347
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	78	Population 1 year and over	675338	5,107
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	79	Same house	589448	9,165
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	80	Different house in the U.S.	85323	7,894
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	81	Same county	51636	6,194
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	82	Different county	33687	4,015
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	83	Same state	21302	3,131
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	84	Different state	12385	3,038
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	85	Abroad	567	480
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	86	Total population	682029	5,217
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	87	Native	659736	6,194
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	88	Born in United States	656645	6,350
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	89	State of residence	504948	7,660
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	90	Different state	151697	8,648
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	91	Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)	3091	936
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	92	Foreign born	22293	2,591
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	93	Foreign-born population	22293	2,591
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	94	Naturalized U.S. citizen	6227	2,080
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	95	Not a U.S. citizen	16066	2,074
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	96	Population born outside the United States	25384	2,755
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	97	Native	3091	936
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	98	Entered 2000 or later	664	441
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	99	Entered before 2000	2427	835
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	100	Foreign born	22293	2,591
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	101	Entered 2000 or later	8031	1,753
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	102	Entered before 2000	14262	2,198
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	103	Foreign-born population, excluding population born at sea	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	104	Europe	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	105	Asia	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	106	Africa	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	107	Oceania	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	108	Latin America	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	109	Northern America	N	N
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	110	Population 5 years and over	643058	4,983
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	111	English only	608152	5,402
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	112	Language other than English	34906	2,992
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	113	"Speak English less than ""very well"""	17244	1,846
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	114	Spanish	29150	2,662
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	115	"Speak English less than ""very well"""	15267	1,727
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	116	Other Indo-European languages	2907	1,054
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	117	"Speak English less than ""very well"""	512	349
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	118	Asian and Pacific Islander languages	2244	800
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	119	"Speak English less than ""very well"""	1052	561
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	120	Other languages	605	480
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	121	"Speak English less than ""very well"""	413	335
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	122	Total population	682029	5,217
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	123	American	123897	9,078
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	124	Arab	129	125
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	125	Czech	719	423
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	126	Danish	493	309
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	127	Dutch	10948	2,676
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	128	English	57304	4,341
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	129	French (except Basque)	8344	1,970
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	130	French Canadian	100	113
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	131	German	52206	5,006
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	132	Greek	645	427
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	133	Hungarian	910	672
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	134	Irish	77200	5,453
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	135	Italian	8431	2,123
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	136	Lithuanian	262	283
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	137	Norwegian	1918	817
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	138	Polish	2907	1,174
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	139	Portuguese	75	110
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	140	Russian	1194	823
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	141	Scotch-Irish	9871	1,985
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	142	Scottish	12033	2,108
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	143	Slovak	239	299
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	144	Subsaharan African	893	544
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	145	Swedish	2303	1,066
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	146	Swiss	196	168
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	147	Ukrainian	98	118
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	148	Welsh	4331	1,797
+50000US0104	Congressional District 4 (113th Congress), Alabama	DP02	149	West Indian (excluding Hispanic origin groups)	120	134
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	1	Total households	272667	3,608
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	2	Family households (families)	182070	4,787
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	3	With own children under 18 years	72770	3,952
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	4	Married-couple family	136887	4,374
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	5	With own children under 18 years	49966	3,143
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	6	Male householder, no wife present, family	11982	1,603
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	7	With own children under 18 years	5283	1,148
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	8	Female householder, no husband present, family	33201	2,794
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	9	With own children under 18 years	17521	2,342
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	10	Nonfamily households	90597	4,254
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	11	Householder living alone	79208	4,132
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	12	65 years and over	25724	2,083
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	13	Households with one or more people under 18 years	81291	4,055
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	14	Households with one or more people 65 years and over	68246	1,758
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	15	Average household size	2.47	0.03
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	16	Average family size	3.06	0.06
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	17	Population in households	673322	3,694
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	18	Householder	272667	3,608
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	19	Spouse	136745	4,318
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	20	Child	200304	4,926
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	21	Other relatives	37348	3,946
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	22	Nonrelatives	26258	3,141
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	23	Unmarried partner	10520	1,870
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	24	Males 15 years and over	272972	1,082
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	25	Never married	82297	3,815
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	26	Now married, except separated	145647	4,732
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	27	Separated	5311	1,489
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	28	Widowed	7455	1,386
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	29	Divorced	32262	3,331
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	30	Females 15 years and over	288281	1,065
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	31	Never married	68686	2,868
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	32	Now married, except separated	142511	4,746
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	33	Separated	7037	1,224
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	34	Widowed	29875	2,409
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	35	Divorced	40172	2,903
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	36	Number of women 15 to 50 years old who had a birth in the past 12 months	8521	1,762
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	37	Unmarried women (widowed, divorced, and never married)	2362	1,031
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	38	Per 1,000 unmarried women	27	12
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	39	Per 1,000 women 15 to 50 years old	50	10
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	40	Per 1,000 women 15 to 19 years old	12	11
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	41	Per 1,000 women 20 to 34 years old	111	25
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	42	Per 1,000 women 35 to 50 years old	13	8
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	43	Number of grandparents living with own grandchildren under 18 years	14831	2,376
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	44	Responsible for grandchildren	8691	1,959
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	45	Less than 1 year	1665	1,237
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	46	1 or 2 years	2122	1,089
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	47	3 or 4 years	1132	521
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	48	5 or more years	3772	1,037
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	49	Number of grandparents responsible for own grandchildren under 18 years	8691	1,959
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	50	Who are female	5270	1,122
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	51	Who are married	6302	1,750
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	52	Population 3 years and over enrolled in school	175661	4,060
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	53	Nursery school, preschool	8234	1,664
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	54	Kindergarten	9773	1,810
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	55	Elementary school (grades 1-8)	71549	2,482
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	56	High school (grades 9-12)	38300	1,852
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	57	College or graduate school	47805	3,720
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	58	Population 25 years and over	465375	1,654
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	59	Less than 9th grade	20946	2,127
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	60	9th to 12th grade, no diploma	44940	4,071
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	61	High school graduate (includes equivalency)	133856	4,627
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	62	Some college, no degree	104580	4,574
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	63	Associate's degree	33041	3,099
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	64	Bachelor's degree	78189	4,300
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	65	Graduate or professional degree	49823	3,548
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	66	Percent high school graduate or higher	85.8	1.0
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	67	Percent bachelor's degree or higher	27.5	1.0
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	68	Civilian population 18 years and over	530197	723
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	69	Civilian veterans	60737	4,241
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	70	Total Civilian Noninstitutionalized Population	678634	3,420
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	71	With a disability	92246	5,300
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	72	Under 18 years	159537	584
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	73	With a disability	7083	1,634
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	74	18 to 64 years	426498	3,429
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	75	With a disability	48999	3,808
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	76	65 years and over	92599	1,052
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	77	With a disability	36164	2,438
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	78	Population 1 year and over	682872	1,347
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	79	Same house	590549	7,764
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	80	Different house in the U.S.	90753	7,755
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	81	Same county	58869	7,446
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	82	Different county	31884	4,123
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	83	Same state	15258	2,825
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	84	Different state	16626	2,917
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	85	Abroad	1570	694
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	86	Total population	691438	105
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	87	Native	662414	3,018
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	88	Born in United States	652992	3,540
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	89	State of residence	428671	8,833
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	90	Different state	224321	8,725
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	91	Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)	9422	1,766
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	92	Foreign born	29024	3,016
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	93	Foreign-born population	29024	3,016
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	94	Naturalized U.S. citizen	12224	1,836
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	95	Not a U.S. citizen	16800	2,880
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	96	Population born outside the United States	38446	3,531
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	97	Native	9422	1,766
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	98	Entered 2000 or later	1289	627
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	99	Entered before 2000	8133	1,626
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	100	Foreign born	29024	3,016
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	101	Entered 2000 or later	14166	3,023
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	102	Entered before 2000	14858	1,967
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	103	Foreign-born population, excluding population born at sea	29024	3,016
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	104	Europe	3564	997
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	105	Asia	7084	1,045
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	106	Africa	1649	801
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	107	Oceania	202	204
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	108	Latin America	15990	2,175
+50000US0105	Congressional District 5 (113th Congress), Alabama	DP02	109	Northern America	535	358
